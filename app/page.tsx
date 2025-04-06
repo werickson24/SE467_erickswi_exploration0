@@ -10,7 +10,7 @@ export default function Home() {
         height={150}
         priority
       />
-      <h1 className="text-4xl font-bold mt-4">Welcome to OSU SE467</h1>
+      <h1 className="text-4xl font-bold mt-4">Hello from erickswi</h1>
     </div>
   );
 }
